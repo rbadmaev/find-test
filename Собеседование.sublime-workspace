@@ -1,0 +1,2426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Вы",
+				"Высокие"
+			],
+			[
+				"tar",
+				"target_link_libraries"
+			],
+			[
+				"find",
+				"find_package"
+			],
+			[
+				"tal",
+				"target_link_libraries"
+			],
+			[
+				"ta",
+				"target_link_libraries"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"tarl",
+				"target_link_libraries"
+			],
+			[
+				"if",
+				"ifstream"
+			],
+			[
+				"file",
+				"filesystem"
+			],
+			[
+				"t",
+				"Threads"
+			],
+			[
+				"al",
+				"algorithm"
+			],
+			[
+				"mat",
+				"cmath"
+			],
+			[
+				"PR",
+				"PRIVATE"
+			],
+			[
+				"targe",
+				"target_link_libraries"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"T",
+				"Threads"
+			],
+			[
+				"pro",
+				"program_options"
+			],
+			[
+				"thre",
+				"threadCount"
+			],
+			[
+				"si",
+				"size_t"
+			],
+			[
+				"Bu",
+				"Buffer"
+			],
+			[
+				"_",
+				"_buffers"
+			],
+			[
+				"bu",
+				"buffer"
+			],
+			[
+				"nu",
+				"numeric_limits"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"Siz",
+				"SizeType"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"cre",
+				"createSearch"
+			],
+			[
+				"String",
+				"string_view"
+			],
+			[
+				"masto",
+				"matchStorage"
+			],
+			[
+				"make",
+				"make_unique"
+			],
+			[
+				"_la",
+				"_lastStartPositionForChunk"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"ma",
+				"matchStorage"
+			],
+			[
+				"chS",
+				"chunkSize"
+			],
+			[
+				"maSi",
+				"matchSize"
+			],
+			[
+				"maS",
+				"matchStorage"
+			],
+			[
+				"Size",
+				"SizeType"
+			],
+			[
+				"про",
+				"производительность"
+			],
+			[
+				"вы",
+				"высокое"
+			],
+			[
+				"lineS",
+				"lineStartOffset"
+			],
+			[
+				"exe",
+				"executable"
+			],
+			[
+				"ex",
+				"executable"
+			],
+			[
+				"get",
+				"getTest"
+			],
+			[
+				"Cma",
+				"CMakeLists"
+			],
+			[
+				"в",
+				"временные"
+			],
+			[
+				"m",
+				"mutex"
+			],
+			[
+				"pre",
+				"prevPrefixSize"
+			],
+			[
+				"Thre",
+				"Threads"
+			],
+			[
+				"string",
+				"string_view"
+			],
+			[
+				"pr",
+				"proj"
+			],
+			[
+				"line",
+				"line_num"
+			],
+			[
+				"ac",
+				"atomic\tstandard header (since c++11)"
+			],
+			[
+				"A",
+				"ASSERT"
+			],
+			[
+				"bool",
+				"boolExpression"
+			],
+			[
+				"CuMe",
+				"CubeMetaAndData"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"Ra",
+				"RankMode"
+			],
+			[
+				"ti",
+				"times"
+			],
+			[
+				"day",
+				"dayCube"
+			],
+			[
+				"u",
+				"updateCells"
+			],
+			[
+				"time",
+				"timeCxp"
+			],
+			[
+				"ran",
+				"rankedCube"
+			],
+			[
+				"inva",
+				"invalidateRankCache"
+			],
+			[
+				"LLVva",
+				"LlvmValueType"
+			],
+			[
+				"Cel",
+				"CellIndexRef"
+			],
+			[
+				"LlV",
+				"LlvmVisitor"
+			],
+			[
+				"gr",
+				"groupEnd"
+			],
+			[
+				"cell",
+				"cellIndex"
+			],
+			[
+				"def",
+				"defaultValue"
+			],
+			[
+				"_Se",
+				"_setChangedPtr"
+			],
+			[
+				"srcC",
+				"srcCubeId"
+			],
+			[
+				"CuM",
+				"CubeMetaAndData"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"compiOut",
+				"compileOutdatingFunction"
+			],
+			[
+				"ce",
+				"cellIndexArg"
+			],
+			[
+				"CF",
+				"CubeFormat"
+			],
+			[
+				"cub",
+				"cubeId"
+			],
+			[
+				"_S",
+				"_setChangedFuncName"
+			],
+			[
+				"Se",
+				"SetChanged"
+			],
+			[
+				"Cu",
+				"CubeFormat"
+			],
+			[
+				"cure",
+				"currentRank"
+			],
+			[
+				"fir",
+				"firstRank"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"_raw",
+				"_rawData"
+			],
+			[
+				"cel",
+				"cellIndex"
+			],
+			[
+				"_ra",
+				"_ranks"
+			],
+			[
+				"_re",
+				"_readValue"
+			],
+			[
+				"Poi",
+				"PointToCellIndex"
+			],
+			[
+				"llv",
+				"llvm"
+			],
+			[
+				"Pla",
+				"PlanarAllocationProperties"
+			],
+			[
+				"CeI",
+				"CellIndexT"
+			],
+			[
+				"soR",
+				"sortOrder"
+			],
+			[
+				"So",
+				"SortOrder"
+			],
+			[
+				"S",
+				"Sequential"
+			],
+			[
+				"RA",
+				"RankMode"
+			],
+			[
+				"value",
+				"value_or"
+			],
+			[
+				"anyKn",
+				"anyKnownCube"
+			],
+			[
+				"BAs",
+				"BaseAstNode"
+			],
+			[
+				"ios",
+				"iosfwd\tstandard header"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"gor",
+				"groupEnd"
+			],
+			[
+				"ra",
+				"rank"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"sort",
+				"sortOrder"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"dayD",
+				"daysDimension"
+			],
+			[
+				"from",
+				"fromLlvm"
+			],
+			[
+				"Tim",
+				"TimeDimension"
+			],
+			[
+				"inde",
+				"indexConverter"
+			],
+			[
+				"set",
+				"setCell"
+			],
+			[
+				"vec",
+				"vector\tstandard header"
+			],
+			[
+				"ini",
+				"initializer_list"
+			],
+			[
+				"sze",
+				"size_t"
+			],
+			[
+				"em",
+				"emplace_back"
+			],
+			[
+				"fiA",
+				"fixedItemsArg"
+			],
+			[
+				"fi",
+				"fixedItems"
+			],
+			[
+				"item",
+				"itemLink"
+			],
+			[
+				"Nu",
+				"NumberType"
+			],
+			[
+				"paIT",
+				"parentItemId"
+			],
+			[
+				"ceI",
+				"cellIndexRef"
+			],
+			[
+				"iI",
+				"itemIndexDto"
+			],
+			[
+				"NU",
+				"Number"
+			],
+			[
+				"DateV",
+				"DateValue"
+			],
+			[
+				"Da",
+				"DateValue"
+			],
+			[
+				"NB",
+				"NumberValue"
+			],
+			[
+				"Num",
+				"NumberValue"
+			],
+			[
+				"LLV",
+				"LlvmValueType"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 186.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"map",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Build: ",
+				"Build With: build current with boost 1.77"
+			],
+			[
+				"Build: 13",
+				"Build With: build GCC 13 with boost 1.77"
+			],
+			[
+				"FILE: cle",
+				"File: Close views with not existing file"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"prev",
+				"Markdown HTML Preview"
+			],
+			[
+				"mar",
+				"Markdown HTML Preview"
+			],
+			[
+				"Convert Case: ",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Convert Case: l",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Build: 10",
+				"Build With: build GCC 10 with boost 1.79"
+			],
+			[
+				"Build: bui",
+				"Build With: build GCC 10 with boost 1.77"
+			],
+			[
+				"Build: b",
+				"Build With: build current with boost 1.77"
+			],
+			[
+				"FILE: de",
+				"File: Remove (Delete)"
+			],
+			[
+				"Build: c+",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"Build: c++",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"FILE: un",
+				"File: Unsaved views..."
+			],
+			[
+				"Build: de",
+				"Build With: build DEBUG with boost 1.79"
+			],
+			[
+				"Build: deb",
+				"Build With: build DEBUG with boost 1.79"
+			],
+			[
+				"FILE: cl",
+				"File: Close views with not existing file"
+			],
+			[
+				"FILE: co",
+				"File: Copy files with the same base name..."
+			],
+			[
+				"FILE: clo",
+				"File: Close All"
+			],
+			[
+				"FILE: u",
+				"File: Unsaved views..."
+			],
+			[
+				"Build: cma",
+				"Build With: cmake_there"
+			],
+			[
+				"Build: ca",
+				"Build: Cancel"
+			],
+			[
+				"Build: py",
+				"Build With: Python"
+			],
+			[
+				"FILE: ren",
+				"File: Rename files with the same base name..."
+			],
+			[
+				"FILE: sa",
+				"File: Save All"
+			],
+			[
+				"FILE: move",
+				"File: Move files with the same base name..."
+			],
+			[
+				"FILE: mo",
+				"File: Move files with the same base name..."
+			],
+			[
+				"FILE: uns",
+				"File: Unsaved views..."
+			],
+			[
+				"Build: re",
+				"Build With: full rebuild cxp"
+			],
+			[
+				"Build: unt",
+				"Build With: TEST: UnitTests"
+			],
+			[
+				"Build: summa",
+				"Build With: TEST: SummaryCalculationTest"
+			],
+			[
+				"Build: sum",
+				"Build With: TEST: SummaryCalculationTest"
+			],
+			[
+				"Build: u",
+				"Build With: TEST: UnitTests"
+			],
+			[
+				"Build: cha",
+				"Build With: TEST: ChangeDictionaryTest"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"FILE: re",
+				"File: Rename files with the same base name..."
+			],
+			[
+				"Build: Ran",
+				"Build With: TEST: RankFunctionTest"
+			],
+			[
+				"Build: c",
+				"Build With: C++ Single File"
+			],
+			[
+				"Build: C",
+				"Build With: C++ Single File"
+			],
+			[
+				"Build: C++",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"Build: su",
+				"Build With: TEST: SumSpeedTest"
+			],
+			[
+				"Build: sums",
+				"Build With: TEST: SumSpeedTest"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"Build: run",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"Build: a",
+				"Build: Cancel"
+			],
+			[
+				"Build: dime",
+				"Build With: TEST: DimensionSumTest"
+			],
+			[
+				"Build: Dime",
+				"Build With: TEST: DimensionSumTest"
+			],
+			[
+				"FILE: rem",
+				"File: Remove (Delete)"
+			],
+			[
+				"Build: ru",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"Build: sele",
+				"Build With: TEST: SelectFunctionTest"
+			],
+			[
+				"Build: Sele",
+				"Build With: TEST: SelectFunctionTest"
+			],
+			[
+				"FILE: a",
+				"File: Save All"
+			],
+			[
+				"FILE: rean",
+				"File: Rename files with the same base name..."
+			],
+			[
+				"FILE: remove",
+				"File: Remove (Delete)"
+			],
+			[
+				"Build: dumre",
+				"Build With: TEST: DumpRestoreTest"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"them",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"FILE: remo",
+				"File: Remove (Delete)"
+			],
+			[
+				"togg",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"FILE: dele",
+				"File: Remove (Delete)"
+			],
+			[
+				"Build: sin",
+				"Build With: C++ Single File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Clang Format: Select Style"
+			],
+			[
+				"FILE: cloe",
+				"File: Close views with not existing file"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"Build: sumf",
+				"Build With: TEST: SumFunctionTest"
+			],
+			[
+				"Build: un",
+				"Build With: TEST: UnitTests"
+			],
+			[
+				"Build: ind",
+				"Build With: TEST: InDimensionFunctionTest"
+			],
+			[
+				"File: un",
+				"File: Unsaved views..."
+			],
+			[
+				"Build: SUm",
+				"Build With: TEST: SumFunctionTest"
+			],
+			[
+				"Build: Find",
+				"Build With: TEST: FindItemTest"
+			],
+			[
+				"File: sa",
+				"File: Save All"
+			],
+			[
+				"Build: inDim",
+				"Build With: TEST: InDimensionFunctionTest"
+			],
+			[
+				"Build: Dims",
+				"Build With: TEST: DimensionSumTest"
+			],
+			[
+				"Build: Sle",
+				"Build With: TEST: SelfFunctionTest"
+			],
+			[
+				"File: ",
+				"File: Unsaved views..."
+			],
+			[
+				"Build: inc",
+				"Build With: Show includes"
+			],
+			[
+				"Build: in",
+				"Build With: Show includes"
+			],
+			[
+				"File: uns",
+				"File: Unsaved views..."
+			],
+			[
+				"File: rena",
+				"File: Rename files with the same base name..."
+			],
+			[
+				"Build: ac",
+				"Build: Cancel"
+			],
+			[
+				"File: dele",
+				"File: Remove (Delete) files with the same base name..."
+			],
+			[
+				"File: cl",
+				"File: Close views with not existing file"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"File: de",
+				"File: Remove (Delete)"
+			],
+			[
+				"File: clo",
+				"File: Close views with not existing file"
+			],
+			[
+				"File: move",
+				"File: Move files with the same base name..."
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Build: my",
+				"Build With: TEST: MultiplyMatricesTest"
+			],
+			[
+				"for",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Build: mu",
+				"Build With: TEST: MultiplyMatricesTest"
+			],
+			[
+				"Build: noDa",
+				"Build With: TEST: NoDataCubeTest"
+			],
+			[
+				"Build: setCuF",
+				"Build With: TEST: SetCubeFormatTest"
+			],
+			[
+				"Build: nod",
+				"Build With: TEST: NoDataCubeTest"
+			],
+			[
+				"Build: set",
+				"Build With: TEST: SetCellTest"
+			],
+			[
+				"File: mo",
+				"File: Move files with the same base name..."
+			],
+			[
+				"Build: self",
+				"Build With: TEST: SelfFunctionTest"
+			],
+			[
+				"File: ren",
+				"File: Rename files with the same base name..."
+			],
+			[
+				"Build: subse",
+				"Build With: TEST: SubsetTest"
+			],
+			[
+				"Build: sub",
+				"Build With: TEST: SubsetTest"
+			],
+			[
+				"Build: SubsetTest",
+				"Build With: TEST: SubsetTest"
+			],
+			[
+				"Build: sel",
+				"Build With: TEST: SelectFunctionTest"
+			],
+			[
+				"Build: AddRemoveDimensionTest",
+				"Build With: TEST: AddRemoveDimensionTest"
+			],
+			[
+				"Build: tex",
+				"Build With: TEST: TextCubeSpeedTest"
+			],
+			[
+				"Build: cas",
+				"Build With: TEST: CastTest"
+			],
+			[
+				"Build: InDimensionFunctionTest",
+				"Build With: TEST: InDimensionFunctionTest"
+			],
+			[
+				"Build: dumRes",
+				"Build With: TEST: DumpRestoreTest"
+			],
+			[
+				"Build: uni",
+				"Build: New Build System"
+			],
+			[
+				"Build: sw",
+				"Build With: TEST: SwitchoverTest"
+			],
+			[
+				"Build: ItemFunctionTest",
+				"Build With: TEST: ItemFunctionTest"
+			],
+			[
+				"Build: seel",
+				"Build With: TEST: SetCellTest"
+			],
+			[
+				"Build: bas",
+				"Build With: TEST: BasicSpeedTest"
+			],
+			[
+				"Build: va",
+				"Build With: Valgrind: Test for current file"
+			],
+			[
+				"Build: dum",
+				"Build With: TEST: DumpBackwardCompatibilityTest"
+			],
+			[
+				"Build: du",
+				"Build With: TEST: DumpBackwardCompatibilityTest"
+			],
+			[
+				"Build: duPre",
+				"Build With: TEST: DumpRestoreTest"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Build: base",
+				"Build With: TEST: BasicSpeedTest"
+			],
+			[
+				"Build: star",
+				"Build With: TEST: StartupTest"
+			],
+			[
+				"Build: cl",
+				"Build With: TEST: CleanCubeCellsTest"
+			],
+			[
+				"Convert Case: low",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 453.0,
+		"history":
+		[
+			"257-129",
+			"0.95/2",
+			"0.46+0.49",
+			"32115/52",
+			"31200/600",
+			"1059/498",
+			"171360*40",
+			"160 *(1+2+30+120)*(1+6)",
+			"40*4",
+			"1+3+36",
+			"160*6*105*98",
+			"160*5*105*98",
+			"160*4*105*98",
+			"1+ 6+ 13+ 15+ 43+ 82",
+			"1+ 2+ 4+ 6+ 8+ 12+ 24+ 48",
+			"3 + 3 + 3 + 3 + 5 + 5 + 5 + 5 + 7 + 7 + 7 + 7 + 9 + 9 + 20",
+			"98*105*4 * 160",
+			"1 + 6 + 13 + 15 + 43 + 82",
+			"98*105*4",
+			"1 + 2 + 4 + 6 + 8 + 12 + 24 + 48",
+			"3 + 3 + 3 + 3 + 5 + 5 + 5 + 5 + 7 + 7 + 7 + 7 + 9 + 9 + 20",
+			"sublime.log_input(True)",
+			" sublime.log_input(True)",
+			"print (os.environ['BOOST_ROOT'])",
+			"import os",
+			"print (os.environ['BOOST_ROOT'])",
+			"import os",
+			"print (os.environ['BOOST_ROOT'])",
+			"import os"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/data/projects/optimacros/hr/test_review",
+		"/mnt/data/projects/optimacros/hr/test_review/solution_1",
+		"/mnt/data/projects/optimacros/hr/test_review/solution_1/mtfind.xcodeproj",
+		"/mnt/data/projects/optimacros/hr/test_review/solution_1/src"
+	],
+	"file_history":
+	[
+		"/mnt/data/projects/optimacros/hr/SOLID.md",
+		"/mnt/data/projects/optimacros/hr/Айрапетьянц Георгий Артурович/optimacros_mtfind/src/Optimacros/MtFind.h",
+		"/home/roman/Изображения/днд/Загадки",
+		"/home/roman/Изображения/днд/Путешествие через пустыню",
+		"/home/roman/Изображения/днд/Битва за Оазис Эхидны",
+		"/home/roman/Изображения/днд/Мемфис",
+		"/home/roman/Изображения/днд/Головоломки",
+		"/home/roman/Изображения/днд/Ловушки",
+		"/home/roman/Изображения/днд/Ненастья",
+		"/home/roman/Изображения/днд/Сценарий",
+		"/home/roman/Изображения/днд/Посещение Лагаша",
+		"/home/roman/Изображения/днд/Посещение Ура",
+		"/home/roman/Изображения/днд/Посещение города Умма",
+		"/home/roman/Изображения/днд/Посещение города Исин",
+		"/home/roman/Изображения/днд/Посещенние ниппура",
+		"/home/roman/Изображения/днд/Посещение Вавилона",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/libs/csp/Accountant.cpp",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/libs/csp/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/libs/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/tests/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/tests/csp_tests.cpp",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/src/main.cpp",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/libs/csp/include/csp/FileReader.h",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/libs/csp/include/csp/Worker.h",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/libs/csp/include/csp/Accountant.h",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/src/InputOptions.h",
+		"/mnt/data/projects/optimacros/hr/Алексей/mt_csp/libs/csp/include/csp/utils.h",
+		"/usr/include/c++/13/bits/basic_ios.h",
+		"/mnt/data/projects/optimacros/hr/Стародубцев Дмитрий/mtfind/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Яковенко Олег/Ревью тестового задания",
+		"/mnt/data/projects/optimacros/hr/HR.sublime-project",
+		"/usr/include/c++/9/bits/basic_string.h",
+		"/mnt/fast/optimacros/cxp1/src/tests/Stubs/FormulaBuilders.h",
+		"/mnt/fast/optimacros/cxp1/src/Common/Random.h",
+		"/mnt/fast/optimacros/cxp1/src/tests/ModelTests/SumFunctionTest.cpp",
+		"/mnt/data/projects/optimacros/hr/Погорелова Екатерина Владимировна/src/mtfinder.cpp",
+		"/usr/include/c++/9/type_traits",
+		"/mnt/data/projects/optimacros/hr/Korostin Andrey/mtfind/mtfind.h",
+		"/mnt/fast/optimacros/test/designated_init/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Baranov Alexander/mtfind-main/src/trie.cpp",
+		"/usr/include/c++/9/bits/stl_algobase.h",
+		"/mnt/data/projects/optimacros/hr/Lysenko Alexander/ParallelSubstringSearch/main.cpp",
+		"/mnt/data/projects/optimacros/hr/Айрапетьянц Георгий Артурович/optimacros_mtfind/src/Optimacros/MtFind.cpp",
+		"/mnt/data/projects/optimacros/hr/Бакиев Динислам/mtfinder/MtFinderReadToVector.cpp",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/mtfind/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Мотенко Евгений Константинович/mtfind/mtfind.cpp",
+		"/mnt/data/projects/optimacros/hr/Герасимчук Владимир Андреевич/mtfind/include/om_object.h",
+		"/home/roman/Рабочий стол/1/Нарисуй.txt",
+		"/mnt/data/projects/optimacros/hr/Темирязев Евгений Алексеевич/mtfind/ThreadPool.h",
+		"/mnt/data/projects/optimacros/hr/Темирязев\nЕвгений Алексеевич\n/mtfind/main.cpp",
+		"/mnt/data/projects/optimacros/hr/Темирязев\nЕвгений Алексеевич\n/review",
+		"/mnt/data/projects/optimacros/hr/Тестовая задача_v4_для отправки кандидатам.txt",
+		"/mnt/data/projects/сайт/сайт.html",
+		"/mnt/data/projects/optimacros/hr/7304 Гусев Александр Александрович/mtfind/.gitignore",
+		"/mnt/data/projects/optimacros/hr/6076 Денисов Виталий/mtfind/parser.h",
+		"/mnt/data/projects/optimacros/hr/7312 Катков Денис/mtfind/thread_pool.hpp",
+		"/mnt/data/projects/optimacros/hr/6081 Шабан Станислав/Mtfind/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/6731 Kolchev Denis/6731 Kolchev Denis_task2.txt",
+		"/mnt/data/projects/optimacros/hr/6951 Tixonow Evgeny/mtfind-1.0/src/main.cpp",
+		"/mnt/data/projects/optimacros/hr/6951 Tixonow Evgeny/mtfind-1.0/src/readme.md",
+		"/mnt/data/projects/optimacros/hr/6731 Kolchev Denis/6731 Kolchev Denis_task.txt",
+		"/mnt/data/projects/optimacros/hr/6077 Корепанова Анна Александровна/6077 Корепанова Анна Александровна_task.zip",
+		"/mnt/data/projects/optimacros/hr/6074 Спиченок Антон Олегович/mtfind/operation/ParsingFileOperation.cpp",
+		"/usr/include/c++/9/iosfwd",
+		"/mnt/data/projects/optimacros/hr/5922 Сторублёвцев Антон Владимирович/5922 Сторублёвцев Антон Владимирович_task",
+		"/mnt/data/projects/Нетология/Дурацки вопросы",
+		"/usr/include/c++/9/bits/stl_algo.h",
+		"/mnt/data/projects/optimacros/hr/6026 Миннуллин Ирек/mtfind/otipacros/main.cpp",
+		"/mnt/data/projects/optimacros/hr/5499 Киреёнок Яна Александровна/mtfind/mtfind.cbp",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/main.cpp",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/KnuthSearch.cpp",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/TrivialSearch.cpp",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/MatchStorage.cpp",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/MatchFunction.hpp",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/MatchStorage.h",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/Search.h",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/KnuthSearch.h",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/TrivialSearch.h",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/FileReader.h",
+		"/mnt/data/projects/optimacros/hr/Roman Badmaev/FileReader.cpp",
+		"/home/roman/Рабочий стол/component_licenses.json",
+		"/mnt/data/projects/optimacros/hr/Карев Антон/mtfind/Searcher.h",
+		"/mnt/data/projects/optimacros/hr/5925 Ильясов Рамиль/mtfind/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/5925 Ильясов Рамиль/mtfind/src/mtfind.hpp",
+		"/mnt/data/projects/optimacros/hr/5925 Ильясов Рамиль/mtfind/src/main.cpp",
+		"/mnt/data/projects/optimacros/hr/5925 Ильясов Рамиль/mtfind/src/mtfind.cpp",
+		"/mnt/data/projects/optimacros/hr/5882 Яковенко Владимир/parallel_search/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/5882 Яковенко Владимир/parallel_search/src/command_line_args_handler.h",
+		"/mnt/data/projects/optimacros/hr/Особо отличившиеся",
+		"/mnt/data/projects/optimacros/hr/5882 Яковенко Владимир/parallel_search/src/async_task_runner.h",
+		"/mnt/data/projects/optimacros/hr/5882 Яковенко Владимир/parallel_search/src/main.cpp",
+		"/mnt/data/projects/optimacros/hr/5882 Яковенко Владимир/parallel_search/src/command_line_args_handler.cpp",
+		"/mnt/data/projects/optimacros/hr/5882 Яковенко Владимир/parallel_search/src/async_task_runner.cpp",
+		"/mnt/data/projects/optimacros/hr/5850 Кускин Артем/mtfind/src/tests/StreamSearchTests.cpp",
+		"/mnt/data/projects/optimacros/hr/5694 Антонов Александр Александрович/mtfind/FileWrapper.cpp",
+		"/mnt/data/projects/optimacros/hr/5694 Антонов Александр Александрович/mtfind/main.cpp",
+		"/mnt/data/projects/optimacros/hr/5909 Быстров Артем Дмитриевич/mtfind/Testing_OptiMacros.cpp",
+		"/mnt/data/projects/optimacros/hr/5821 Ражапов Газиз/Razhapov/src/read_worker.cc",
+		"/mnt/data/projects/optimacros/hr/5821 Ражапов Газиз/Razhapov/src/application.cc",
+		"/mnt/data/projects/optimacros/hr/5821 Ражапов Газиз/Razhapov/src/daemonizer/daemon.cc",
+		"/mnt/data/projects/optimacros/hr/5821 Ражапов Газиз/Razhapov/src/main.cc",
+		"/mnt/data/projects/optimacros/hr/5850 Кускин Артем/mtfind/src/core/StreamSearch.cpp",
+		"/mnt/data/projects/optimacros/hr/5850 Кускин Артем/mtfind/src/core/FileSearch.cpp",
+		"/mnt/data/projects/optimacros/hr/5850 Кускин Артем/mtfind/src/core/ArgsParser.cpp",
+		"/mnt/data/projects/optimacros/hr/5850 Кускин Артем/mtfind/src/app/main.cpp",
+		"/mnt/data/projects/optimacros/hr/5850 Кускин Артем/mtfind/src/app/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/5501 Терентьев Александр Владимирович/mtfind/data_supp.cpp",
+		"/mnt/data/projects/optimacros/hr/5501 Терентьев Александр Владимирович/mtfind/main.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/file_reader/file_reader.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/match/match.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/tests/test_file_reader.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/tests/test_main.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/tests/test_match.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/task/task_executor.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/match/matcher.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/match/match_info.cpp",
+		"/mnt/data/projects/optimacros/hr/5589 Карданов Ислам/mtfinder/main.cpp",
+		"/mnt/data/projects/optimacros/hr/Petrakov Artem/task/mask_searcher.cpp",
+		"/mnt/data/projects/optimacros/hr/Petrakov Artem/task/task.cpp",
+		"/mnt/data/projects/optimacros/hr/Тыщенко Максим Николаевич/mtfind/src/Find.cc",
+		"/mnt/data/projects/optimacros/hr/Тыщенко Максим Николаевич/mtfind/src/Main.cc",
+		"/mnt/data/projects/optimacros/hr/Алексеев Виталий/mtfind/mtfind.cpp",
+		"/mnt/data/projects/optimacros/hr/test/run.sh",
+		"/mnt/data/projects/optimacros/hr/Алексеев Виталий/mtfind/CMakeLists.txt",
+		"/mnt/data/projects/optimacros/hr/Ivshin/mtfind/mtfind.cpp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 389.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 208.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 412.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Собеседование.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"transformline",
+				"Манихин Денис Олегович/prodcons/transformline.cpp"
+			],
+			[
+				"",
+				"Особо отличившиеся"
+			],
+			[
+				"Date",
+				"src/Common/Date.hpp"
+			],
+			[
+				"SumCac",
+				"src/Model/Storage/SumCacheGuard.h"
+			],
+			[
+				"LLMA",
+				"src/Llvm/LlvmMaterializeable.h"
+			],
+			[
+				"Irre",
+				"src/CubeMath/IrregularSlice.h"
+			],
+			[
+				"Pla",
+				"src/Model/Storage/PlanarCubeData.cpp"
+			],
+			[
+				"LLVA",
+				"src/Llvm/LlvmValue.h"
+			],
+			[
+				"CuA",
+				"src/Model/Storage/CubeAllocationType.cpp"
+			],
+			[
+				"LLIndeCo",
+				"src/Model/Storage/LlvmIndexConverter/LlvmIndexConverterBuilder.h"
+			],
+			[
+				"LLCUda",
+				"src/Llvm/LlvmCubeData.h"
+			],
+			[
+				"Metad",
+				"src/Metadata/Metadata.h"
+			],
+			[
+				"cxpC",
+				"src/cxp_client/cxp_client.cpp"
+			],
+			[
+				"CopyCellsTest",
+				"src/tests/ModelTests/CopyCellsTest.cpp"
+			],
+			[
+				"AstP",
+				"src/Metadata/Parser/AstPrinter.cpp"
+			],
+			[
+				"ModemO",
+				"src/Model/ModelModifier.cpp"
+			],
+			[
+				"llVida",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorDay.cpp"
+			],
+			[
+				"dateCu",
+				"src/tests/ModelTests/DateCubeTest.cpp"
+			],
+			[
+				"optim",
+				"/mnt/data/projects/optimacros/optimacros4.sublime-project"
+			],
+			[
+				"getCe",
+				"src/tests/Stubs/GetCellsBuilder.hpp"
+			],
+			[
+				"ReTcp",
+				"src/Connection/ReliableTcpConnection.cpp"
+			],
+			[
+				"SuS",
+				"src/tests/SpeedTests/SumSpeedTest.cpp"
+			],
+			[
+				"llvisit",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitor.cpp"
+			],
+			[
+				"sol",
+				"src/Model/TaskManager/Solver.cpp"
+			],
+			[
+				"CleanCellsTask",
+				"src/Model/TaskManager/Tasks/CleanCellsTask.hpp"
+			],
+			[
+				"CleanCubeCellsTest",
+				"src/tests/ModelTests/CleanCubeCellsTest.cpp"
+			],
+			[
+				"tecx",
+				"src/tests/Stubs/TestCxp.hpp"
+			],
+			[
+				"summarycalculationtest",
+				"src/tests/ModelTests/SummaryCalculationTest.cpp"
+			],
+			[
+				"setcelltest",
+				"src/tests/ModelTests/SetCellTest.cpp"
+			],
+			[
+				"npvfunctiontest",
+				"src/tests/ModelTests/NpvFunctionTest.cpp"
+			],
+			[
+				"dimensionsumtest",
+				"src/tests/ModelTests/DimensionSumTest.cpp"
+			],
+			[
+				"versionbuilder",
+				"src/tests/Stubs/VersionBuilder.cpp"
+			],
+			[
+				"timedimensionsbuilder",
+				"src/tests/Stubs/TimeDimensionsBuilder.cpp"
+			],
+			[
+				"llvmvisitorsum",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorSum.cpp"
+			],
+			[
+				"llvireav",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorReadValue.cpp"
+			],
+			[
+				"llvmvisitornpv.cpp",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorNpv.cpp"
+			],
+			[
+				"llViIrr",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorIrr.cpp"
+			],
+			[
+				"versioNTe",
+				"src/tests/ModelTests/VersionTest.cpp"
+			],
+			[
+				"setCuFo",
+				"src/tests/ModelTests/SetCubeFormulaTest.cpp"
+			],
+			[
+				"Setce",
+				"src/tests/ModelTests/SetCellTest.cpp"
+			],
+			[
+				"FinIte",
+				"src/tests/ModelTests/FindItemTest.cpp"
+			],
+			[
+				"SeleCells",
+				"src/ProtobufModel/SelectCells.cpp"
+			],
+			[
+				"log",
+				"src/Common/Logging.cpp"
+			],
+			[
+				"DimeS",
+				"src/Metadata/DimensionSubset.h"
+			],
+			[
+				"for",
+				"src/tests/Stubs/FormulaBuilders.h"
+			],
+			[
+				"Form",
+				"src/tests/Stubs/FormulaBuilders.h"
+			],
+			[
+				"ini",
+				"src/tests/Stubs/InitMetadataBuilder.h"
+			],
+			[
+				"Cume",
+				"src/Metadata/CubeMetadata.h"
+			],
+			[
+				"VerBui",
+				"src/tests/Stubs/VersionBuilder.h"
+			],
+			[
+				"LLvTy",
+				"src/Llvm/TypeTraits.h"
+			],
+			[
+				"ModBui",
+				"src/Llvm/ModuleBuilder.h"
+			],
+			[
+				"SuInde",
+				"src/Metadata/SubsetIndexMap.h"
+			],
+			[
+				"TestCx",
+				"src/tests/Stubs/TestCxpBase.h"
+			],
+			[
+				"wrap",
+				"src/tests/Stubs/Wrappers.h"
+			],
+			[
+				"Dimeca",
+				"src/Model/Storage/Formula/Llvm/DimensionCache.h"
+			],
+			[
+				"Swit",
+				"src/Model/Storage/Switchovers.hpp"
+			],
+			[
+				"storTyp",
+				"src/Model/Storage/StronglyTypedCubeData.hpp"
+			],
+			[
+				"bace",
+				"src/Model/Storage/BaseCubeData.h"
+			],
+			[
+				"Siw",
+				"src/Metadata/Switchover.h"
+			],
+			[
+				"CuF",
+				"src/Common/CubeFormat.h"
+			],
+			[
+				"DimeIte",
+				"src/Metadata/DimensionItem.h"
+			],
+			[
+				"Types",
+				"src/Common/Types.h"
+			],
+			[
+				"solve",
+				"src/Model/TaskManager/Solver.cpp"
+			],
+			[
+				"cxco",
+				"protobuf/cxp_command_api.proto"
+			],
+			[
+				"logg",
+				"src/Common/Logging.cpp"
+			],
+			[
+				"relit",
+				"src/Connection/ReliableTcpConnection.cpp"
+			],
+			[
+				"Aggre",
+				"src/Model/Storage/Aggregates.cpp"
+			],
+			[
+				"dumres",
+				"src/tests/ModelTests/DumpRestoreTest.cpp"
+			],
+			[
+				"Mode",
+				"src/Model/Model.cpp"
+			],
+			[
+				"seria",
+				"src/Model/ModelSerializer.cpp"
+			],
+			[
+				"type",
+				"src/Common/Types.h"
+			],
+			[
+				"LLVInD",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorInDimension.cpp"
+			],
+			[
+				"llViDime",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorDimensionSum.cpp"
+			],
+			[
+				"dire",
+				"src/Model/Storage/LlvmIndexConverter/DirectLlvmIndexConverter.cpp"
+			],
+			[
+				"LlvmIndexConverterBuilder",
+				"src/Model/Storage/LlvmIndexConverter/LlvmIndexConverterBuilder.cpp"
+			],
+			[
+				"LlvmObject.h",
+				"src/Common/LlvmObject.h"
+			],
+			[
+				"ForwardDeclarations",
+				"src/Llvm/ForwardDeclarations.h"
+			],
+			[
+				"LlvmIncludes.h",
+				"src/Llvm/LlvmIncludes.h"
+			],
+			[
+				"ModuleBuilder.h",
+				"src/Llvm/ModuleBuilder.hpp"
+			],
+			[
+				"ModuleBuilder.hpp",
+				"src/Llvm/ModuleBuilder.hpp"
+			],
+			[
+				"LlvmVariable.h",
+				"src/Llvm/LlvmVariable.h"
+			],
+			[
+				"LlvmLoopBuilder.h",
+				"src/Llvm/LlvmLoopBuilder.h"
+			],
+			[
+				"FunctionBuilder.h",
+				"src/Llvm/FunctionBuilder.hpp"
+			],
+			[
+				"FunctionBuilder.hpp",
+				"src/Llvm/FunctionBuilder.hpp"
+			],
+			[
+				"SumCacheGuard.h",
+				"src/Model/Storage/SumCacheGuard.h"
+			],
+			[
+				"TypeTraits.h",
+				"src/Llvm/TypeTraits.h"
+			],
+			[
+				"BucketPlanarCellIndex.hpp",
+				"src/Model/Storage/BucketPlanarCellIndex.hpp"
+			],
+			[
+				"AllocationTypeTraits.hpp",
+				"src/Model/Storage/AllocationTypeTraits.hpp"
+			],
+			[
+				"JitEngine.h",
+				"src/Llvm/JitEngine.h"
+			],
+			[
+				"CubeData.h",
+				"src/Model/Storage/CubeData.h"
+			],
+			[
+				"AllocationIndependentCubeData",
+				"src/Model/Storage/AllocationIndependentCubeData.cpp"
+			],
+			[
+				"BucketPlanarCellIndex",
+				"src/Model/Storage/BucketPlanarCellIndex.hpp"
+			],
+			[
+				"LlViSFin",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorFindItem.cpp"
+			],
+			[
+				"tasMan",
+				"src/Model/TaskManager/TaskManager.h"
+			],
+			[
+				"cxp",
+				"src/cxp_client/cxp_client.cpp"
+			],
+			[
+				"functes",
+				"src/tests/ModelTests/ItemFunctionTest.cpp"
+			],
+			[
+				"build.s",
+				"/mnt/data/projects/optimacros/build_cxp2.sh"
+			],
+			[
+				"cuea",
+				"src/Model/Storage/CubeAllocationType.h"
+			],
+			[
+				"formu",
+				"src/Model/Storage/Formula/Formula.hpp"
+			],
+			[
+				"LlvmVi",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitor.h"
+			],
+			[
+				"ast",
+				"src/Metadata/Parser/Ast.h"
+			],
+			[
+				"DieSum",
+				"src/tests/ModelTests/DimensionSumTest.cpp"
+			],
+			[
+				"SetAllCellsByFormulaTask",
+				"src/Model/TaskManager/Tasks/SetAllCellsByFormulaTask.hpp"
+			],
+			[
+				"MoDe",
+				"src/Model/ModelModifier.cpp"
+			],
+			[
+				"DimensId",
+				"src/Metadata/DimensionId.h"
+			],
+			[
+				"llvim",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorMultiply.cpp"
+			],
+			[
+				"Mu",
+				"src/tests/ModelTests/MultiplyMatricesTest.cpp"
+			],
+			[
+				"llViS",
+				"src/Model/Storage/Formula/Llvm/LlvmVisitorSelf.cpp"
+			],
+			[
+				"Rane",
+				"src/Common/Range.h"
+			],
+			[
+				"Flat",
+				"src/Metadata/FlatDimension.h"
+			],
+			[
+				"Hier",
+				"src/Metadata/HierarchicDimension.cpp"
+			],
+			[
+				"NoData",
+				"src/tests/ModelTests/NoDataCubeTest.cpp"
+			],
+			[
+				"ge",
+				"protobuf/general_types.proto"
+			],
+			[
+				"He",
+				"src/CubeMath/HeavyCartesian.h"
+			],
+			[
+				"types",
+				"src/Common/Types.h"
+			],
+			[
+				"IndeC",
+				"src/Model/Storage/IndexConverters/IndexConverter.hpp"
+			],
+			[
+				"MetaIM",
+				"src/Metadata/MetadataImpl.h"
+			],
+			[
+				"SubseTe",
+				"src/tests/ModelTests/SubsetTest.cpp"
+			],
+			[
+				"valid",
+				"src/Metadata/Parser/FormulaValidator.cpp"
+			],
+			[
+				"StorT",
+				"src/Common/StrongTypedef.hpp"
+			],
+			[
+				"FuC",
+				"src/Llvm/FunctionBuilder.cpp"
+			],
+			[
+				"AddRemoveDimensionTest",
+				"src/tests/ModelTests/AddRemoveDimensionTest.cpp"
+			],
+			[
+				"teCx",
+				"src/tests/Stubs/TestCxp.hpp"
+			],
+			[
+				"SelF",
+				"src/tests/ModelTests/SelfFunctionTest.cpp"
+			],
+			[
+				"rankTe",
+				"src/tests/ModelTests/DimensionItemRankTest.cpp"
+			],
+			[
+				"BasCuD",
+				"src/Model/Storage/BaseCubeData.cpp"
+			],
+			[
+				"MEta",
+				"src/Metadata/Metadata.h"
+			],
+			[
+				"Cum",
+				"src/Metadata/CubeMetadata.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/mnt/data/projects/optimacros/hr/HR.sublime-project"
+			],
+			[
+				"mate",
+				"/mnt/data/projects/mate-dock-applet/mate-dock.sublime-project"
+			],
+			[
+				"ver",
+				"~/.config/sublime-text-3/Packages/VersionControl/Sublime - Version control.sublime-project"
+			],
+			[
+				"in",
+				"/mnt/data/projects/infoCarrier/ic_git/UserWorkspace/IC_GIT.sublime-project"
+			],
+			[
+				"s",
+				"/mnt/data/projects/swissTech/swissTech.sublime-project"
+			],
+			[
+				"ca",
+				"/mnt/data/projects/camWarez/CamWarez.sublime-project"
+			],
+			[
+				"if",
+				"/mnt/data/projects/infoCarrier/ic_git/UserWorkspace/IC_GIT.sublime-project"
+			],
+			[
+				"git",
+				"/mnt/data/projects/infoCarrier/ic_git/UserWorkspace/IC_GIT.sublime-project"
+			],
+			[
+				"meu",
+				"/mnt/data/projects/swissTech/menu/swissTech_menu.sublime-project"
+			],
+			[
+				"fs",
+				"/mnt/data/projects/fSync/fSync.sublime-project"
+			],
+			[
+				"men",
+				"~/data/projects/swissTech/menu/swissTech_menu.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 296.0,
+		"last_filter": "ThreadPool",
+		"selected_items":
+		[
+			[
+				"ThreadPool",
+				"ThreadPool"
+			],
+			[
+				"max_count",
+				"max_count"
+			],
+			[
+				"global",
+				"GlobalOptions"
+			],
+			[
+				"CueMe",
+				"CubeMetaAndData"
+			],
+			[
+				"makeShared",
+				"makeShared"
+			],
+			[
+				"CubeId",
+				"CubeId"
+			],
+			[
+				"operator<<",
+				"operator<<"
+			],
+			[
+				"InvariantType",
+				"toInvariantType"
+			],
+			[
+				"setCell",
+				"setCell"
+			],
+			[
+				"POin",
+				"Point"
+			],
+			[
+				"checkSelect",
+				"checkSelect"
+			],
+			[
+				"SubsetContinuousSubrange",
+				"SubsetContinuousSubrange"
+			],
+			[
+				"LinearParameter",
+				"LinearParameter"
+			],
+			[
+				"removeSwitchover",
+				"removeSwitchover"
+			],
+			[
+				"makeHierarchicDictionary",
+				"makeHierarchicDictionary"
+			],
+			[
+				"getVersionItem",
+				"getVersionItem"
+			],
+			[
+				"extractLinearCoeffs",
+				"extractLinearCoeffs"
+			],
+			[
+				"setInsertPositionInBegin",
+				"setInsertPositionInBegin"
+			],
+			[
+				"AddVersionItemsBuilder",
+				"AddVersionItemsBuilder"
+			],
+			[
+				"addVersions",
+				"addVersions"
+			],
+			[
+				"LLVa",
+				"LlvmValue"
+			],
+			[
+				"LlvmTextValue",
+				"LlvmTextValue"
+			],
+			[
+				"toLlvmValue",
+				"toLlvmValue"
+			],
+			[
+				"IdListBuilder",
+				"IdListBuilder"
+			],
+			[
+				"addedItems",
+				"addedItems"
+			],
+			[
+				"getAggregateFunction",
+				"getAggregateFunction"
+			],
+			[
+				"BlockParams",
+				"BlockParams"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"splitSubsetToContinuousSubranges",
+				"splitSubsetToContinuousSubranges"
+			],
+			[
+				"gene",
+				"generateTempId"
+			],
+			[
+				"swByA",
+				"switchByAllocationType"
+			],
+			[
+				"astPRi",
+				"AstPrinterVisitor"
+			],
+			[
+				"LineVis",
+				"ExtractLinearCoeffsAstVisitor"
+			],
+			[
+				"LLv",
+				"LlvmVisitor"
+			],
+			[
+				"switch",
+				"switchByFormat"
+			],
+			[
+				"SetCubeFormatBuilder",
+				"SetCubeFormatBuilder"
+			],
+			[
+				"maCons",
+				"makeConst"
+			],
+			[
+				"LinearCellModelCoeffsGuard ",
+				"LinearCellModelCoeffsGuard"
+			],
+			[
+				"equ",
+				"equalRanges"
+			],
+			[
+				"enum",
+				"enumerate"
+			],
+			[
+				"enu",
+				"enumerate"
+			],
+			[
+				"addSummryBuckets",
+				"addSummryBuckets"
+			],
+			[
+				"getDefaultParent",
+				"getDefaultParent"
+			],
+			[
+				"AddDictionarySubsetItemsBuilder",
+				"AddDictionarySubsetItemsBuilder"
+			],
+			[
+				"sumpa",
+				"SumParameters"
+			],
+			[
+				"JIT",
+				"Jit"
+			],
+			[
+				"ProtobufValue",
+				"ProtobufValue"
+			],
+			[
+				"switbyFo",
+				"switchByFormat"
+			],
+			[
+				"switchover",
+				"getSwitchoverCellsForVersion"
+			],
+			[
+				"SumCa",
+				"SumCaches"
+			],
+			[
+				"makeCubeSubsetFormatCube",
+				"makeCubeSubsetFormatCube"
+			],
+			[
+				"getSymbolAddress",
+				"getSymbolAddress"
+			],
+			[
+				"swby",
+				"switchByFormat"
+			],
+			[
+				"makeFunctionCall",
+				"makeFunctionCall"
+			],
+			[
+				"toLL",
+				"toLlvm"
+			],
+			[
+				"switchByAllocationType",
+				"switchByAllocationType"
+			],
+			[
+				"BatchLinearOptimizationParams",
+				"BatchLinearOptimizationParams"
+			],
+			[
+				"FilteredCubeSlice",
+				"FilteredCubeSlice"
+			],
+			[
+				"convet",
+				"ConversionsTuner"
+			],
+			[
+				"SwByF",
+				"switchByFormat"
+			],
+			[
+				"toCell",
+				"toCellIndex"
+			],
+			[
+				"appl",
+				"isAllocationApplicableToFormat"
+			],
+			[
+				"ALLOC_TYPE_TEST",
+				"ALLOC_TYPE_TEST"
+			],
+			[
+				"compileFormula",
+				"compileFormula"
+			],
+			[
+				"enume",
+				"enumerate"
+			],
+			[
+				"isAllocationApplicableToFormat",
+				"isAllocationApplicableToFormat"
+			],
+			[
+				"swiby",
+				"switchByFormat"
+			],
+			[
+				"env",
+				"EnvironmentProvider"
+			],
+			[
+				"randNumber",
+				"randNumber"
+			],
+			[
+				"numer",
+				"numericCast"
+			],
+			[
+				"FunctionParameter",
+				"FunctionParameter"
+			],
+			[
+				"setOutdated",
+				"setOutdated"
+			],
+			[
+				"isAnyCubeFormat",
+				"isAnyCubeFormat"
+			],
+			[
+				"isRealAllocationType",
+				"isRealAllocationType"
+			],
+			[
+				"setSwitchover",
+				"setSwitchover"
+			],
+			[
+				"ProtoId",
+				"toProtobufId"
+			],
+			[
+				"to",
+				"idToOptional"
+			],
+			[
+				"doTestReply",
+				"doTestReply"
+			],
+			[
+				"ParentRecalculationStrategy",
+				"ParentRecalculationStrategy"
+			],
+			[
+				"makeUniqueSumCells",
+				"makeUniqueSumCells"
+			],
+			[
+				"invalidateFunctions",
+				"invalidateFunctions"
+			],
+			[
+				"swbyfo",
+				"switchByFormat"
+			],
+			[
+				"getConstValue",
+				"getConstValue"
+			],
+			[
+				"Message",
+				"Message"
+			],
+			[
+				"optimizeLinearModel",
+				"optimizeLinearModel"
+			],
+			[
+				"getOptimizationParams",
+				"getOptimizationParams"
+			],
+			[
+				"oper",
+				"operator<<"
+			],
+			[
+				"Ag",
+				"AggregateFunction"
+			],
+			[
+				"CubeCe",
+				"CubeCell"
+			],
+			[
+				"extra",
+				"extractLinearCoeffs"
+			],
+			[
+				"operator+",
+				"operator+"
+			],
+			[
+				"LinearOptimizationParams",
+				"LinearOptimizationParams"
+			],
+			[
+				"CubeCell",
+				"CubeCell"
+			],
+			[
+				"_getser",
+				"_getSrcCell"
+			],
+			[
+				"_getSr",
+				"_getSrcCell"
+			],
+			[
+				"exLieC",
+				"extractLinearCoeffsFromLeafCell"
+			],
+			[
+				"AstLinearCoeffs",
+				"AstLinearCoeffs"
+			],
+			[
+				"toS",
+				"joinItemsToStr"
+			],
+			[
+				"CopyCellsTask",
+				"CopyCellsTask"
+			],
+			[
+				"doube",
+				"doublesAreEqual"
+			],
+			[
+				"RecalculationStrategy",
+				"RecalculationStrategy"
+			],
+			[
+				"SumCacheGuard",
+				"SumCacheGuard"
+			],
+			[
+				"parseFormula",
+				"parseFormula"
+			],
+			[
+				"ExtractLinearCoeffsAstVisitor",
+				"ExtractLinearCoeffsAstVisitor"
+			],
+			[
+				"CUbeI",
+				"CubeId"
+			],
+			[
+				"ChangeSwitchoverBuilder",
+				"ChangeSwitchoverBuilder"
+			],
+			[
+				"Switchover",
+				"Switchover"
+			],
+			[
+				"JoIte",
+				"joinItemsToStr"
+			],
+			[
+				"dependsOnParams",
+				"dependsOnParams"
+			],
+			[
+				"None",
+				"none"
+			],
+			[
+				"SwitchByTaskTraits",
+				"SwitchByTaskTraits"
+			],
+			[
+				"tolo",
+				"toLogical"
+			],
+			[
+				"getDefa",
+				"getDefaultParent"
+			],
+			[
+				"defa",
+				"getDefaultSummary"
+			],
+			[
+				"defaSu",
+				"getDefaultSummary"
+			],
+			[
+				"ter",
+				"terminateOnException"
+			],
+			[
+				"change",
+				"changeSwitchover"
+			],
+			[
+				"swtime",
+				"findSwitchoverTime"
+			],
+			[
+				"getW",
+				"_getSwitchoverTimes"
+			],
+			[
+				"changeS",
+				"changeSwitchover"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"item",
+				"Item"
+			],
+			[
+				"mu",
+				"multiply"
+			],
+			[
+				"colle",
+				"collect"
+			],
+			[
+				"findItem",
+				"findItem"
+			],
+			[
+				"ASSERT",
+				"ASSERT"
+			],
+			[
+				"sele",
+				"select"
+			]
+		],
+		"width": 578.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

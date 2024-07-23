@@ -1,0 +1,95 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "file_exclude_patterns":
+            [   "*.cache",
+                "*.pyc",
+                "*.pyo",
+                "*.pyd",
+                "*.zip",
+                "*.rar",
+                "*.7z",
+                "*.exe",
+                "*.sublime-project",
+                "*.sublime-workspace",
+                ".*"
+            ],
+            "folder_exclude_patterns":
+            [   ".*",
+                "build",
+                "3rdparty",
+                "experements",
+            ]
+        },
+    ],
+    "settings":
+    {
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true,
+        "detect_indentation": false,
+        "default_line_ending": "unix",
+        "show_line_endings": true,
+        "rulers": [120],
+        "sublimegdb_executables":
+        {
+            "CurrentFile":
+            {
+                "workingdir": "${project_path:build/cxp}",
+                "commandline": "gdb --interpreter=mi ./${file_base_name}"
+            },
+        },
+        "afn_use_project_root": true,
+        "afn_proj_root": "$project_path/cxp3/src",
+        "ClangFormat":
+        {
+            "format_on_save": false,
+        }
+    },
+    "build_systems":
+    [
+        {
+            "name": "build current with boost 1.77.0",
+            "shell": true,
+            "cmd": ["export BOOST_ROOT=/boost/1.77.0/ && $project_path/build_current.sh"],
+            "file_regex": "^([^:\\n]+):(\\d+):(\\d+):(.+)$"
+        },
+        {
+            "name": "build current with boost 1.79.0",
+            "shell": true,
+            "cmd": ["export BOOST_ROOT=/boost/1.79.0/ && $project_path/build_current.sh"],
+            "file_regex": "^([^:\\n]+):(\\d+):(\\d+):(.+)$"
+        },
+        {
+            "name": "build DEBUG with boost 1.79.0 ",
+            "shell": true,
+            "cmd": ["export BOOST_ROOT=/boost/1.79.0/ && $project_path/build_current.sh Debug"],
+            "file_regex": "^([^:\\n]+):(\\d+):(\\d+):(.+)$"
+        },
+        {
+            "name": "build GCC 10 with boost 1.79.0 ",
+            "shell": true,
+            "cmd": ["export BOOST_ROOT=/boost/1.79.0/ && export CC=gcc-10 export CXX=g++-10 && $project_path/build_current.sh Release"],
+            "file_regex": "^([^:\\n]+):(\\d+):(\\d+):(.+)$"
+        },
+        {
+            "name": "build GCC 10 with boost 1.77.0 ",
+            "shell": true,
+            "cmd": ["export BOOST_ROOT=/boost/1.77.0/ && export CC=gcc-10 export CXX=g++-10 && $project_path/build_current.sh Release"],
+            "file_regex": "^([^:\\n]+):(\\d+):(\\d+):(.+)$"
+        },
+        {
+            "name": "build GCC 13 with boost 1.79.0 ",
+            "shell": true,
+            "cmd": ["export BOOST_ROOT=/boost/1.79.0/ && export CC=gcc-13 export CXX=g++-13 && $project_path/build_current.sh Release"],
+            "file_regex": "^([^:\\n]+):(\\d+):(\\d+):(.+)$"
+        },
+        {
+            "name": "build GCC 13 with boost 1.77.0 ",
+            "shell": true,
+            "cmd": ["export BOOST_ROOT=/boost/1.77.0/ && export CC=gcc-13 export CXX=g++-13 && $project_path/build_current.sh Release"],
+            "file_regex": "^([^:\\n]+):(\\d+):(\\d+):(.+)$"
+        }
+    ]
+}
